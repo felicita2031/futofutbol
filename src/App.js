@@ -1,10 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>futofutbolllll</h1>
+      <header className='App-header'>
+      <p>
+        <code>Software Engineer Karı</code>
+      </p> 
+      </header>
+      
     </div>
   );
 }

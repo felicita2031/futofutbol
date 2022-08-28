@@ -1,14 +1,19 @@
 import './App.css';
+import {Header,Footer} from './components/common/index'
 
 function App() {
   return (
     <div className="App">
-      <header className='App-header'>
-      <p>
-        <code>Software Engineer Karı</code>
-      </p> 
-      </header>
-      
+      <Header/>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <Footer/>
+
     </div>
   );
 }
